@@ -107,7 +107,10 @@ body {
 }
 
 .presentacion__imagen {
-    width: 50%;
+    position: absolute;
+    top: 140px; /* Distância do topo */
+    left: 800px; /* Distância da esquerda */
+    width: 600px; 
 }
 
 .footer {
